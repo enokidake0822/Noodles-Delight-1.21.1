@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "noodlesdelight:block/miso_barrel_bottom",
+    "side": "noodlesdelight:block/miso_barrel_side",
+    "top": "noodlesdelight:block/miso_barrel_top"
+  }
+}

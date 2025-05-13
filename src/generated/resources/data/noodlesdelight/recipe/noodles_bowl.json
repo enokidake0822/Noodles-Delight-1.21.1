@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:clay_ball"
+    },
+    "N": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "pattern": [
+    "CNC",
+    " C "
+  ],
+  "result": {
+    "count": 1,
+    "id": "noodlesdelight:noodles_bowl"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "noodlesdelight:block/container_side",
+    "side": "noodlesdelight:block/container_side",
+    "top": "noodlesdelight:block/flying_fish_container_top"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "has_noodlesbowl": {
+      "conditions": {
+        "items": [
+          {
+            "items": "noodlesdelight:noodles_bowl"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "description": "",
+    "icon": {
+      "count": 1,
+      "id": "noodlesdelight:noodles_bowl"
+    },
+    "title": "Noodles Delight"
+  },
+  "requirements": [
+    [
+      "has_noodlesbowl"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

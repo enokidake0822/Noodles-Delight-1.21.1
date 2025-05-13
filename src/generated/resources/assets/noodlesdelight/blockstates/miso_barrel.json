@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "progerss=0": {
+      "model": "noodlesdelight:block/miso_barrel_0"
+    },
+    "progerss=1": {
+      "model": "noodlesdelight:block/miso_barrel_1"
+    },
+    "progerss=2": {
+      "model": "noodlesdelight:block/miso_barrel_2"
+    },
+    "progerss=3": {
+      "model": "noodlesdelight:block/miso_barrel_3"
+    }
+  }
+}

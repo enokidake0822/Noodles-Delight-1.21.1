@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:barrel"
+    },
+    "K": {
+      "item": "noodlesdelight:koji"
+    },
+    "S": {
+      "item": "noodlesdelight:salt"
+    }
+  },
+  "pattern": [
+    "KKK",
+    "SSS",
+    " B "
+  ],
+  "result": {
+    "count": 1,
+    "id": "noodlesdelight:soy_sauce_barrel"
+  }
+}
